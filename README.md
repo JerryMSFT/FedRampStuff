@@ -1,6 +1,8 @@
 # FedRampStuff
 Azure BlurePrint examples can be found @ https://docs.microsoft.com/en-us/azure/governance/blueprints/samples/
 
+Deployment Instructions can be found here @ https://docs.microsoft.com/en-us/previous-versions/azure/security/blueprints/fedramp-iaaswa-overview
+
 This solution uses the following Azure services. Details of the deployment architecture are located in the deployment architecture section. This will deploy to AzureGov
 
 Azure Virtual Machines
